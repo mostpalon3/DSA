@@ -211,7 +211,6 @@ using namespace std;
     // // to change the value of the string 
     // s[len - 1] = 'I';//here I is character so assign it as a character 
     // cout << s[len - 1];//to print the last letter , we used len - 1 since indexing here starts from 0
-
 //For loops 
     // //the value of I will get updated everytime the last time it updates to 6 here zoro wont be printed since it aint meeting the conditions , so to confirm it we'll assign the i value outside the for loop and print the last updated value inside the for loop 
     // int i ;

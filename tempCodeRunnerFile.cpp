@@ -1,2 +1,1 @@
-
-    // cin>> name ;
+    char ch = 65;
