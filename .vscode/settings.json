@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "__split_buffer": "cpp",
         "deque": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "ostream": "cpp"
     }
 }
